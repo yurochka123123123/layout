@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="470" height="390" viewBox="0 0 470 390">
+	<linearGradient id="linear-gradient" x1="0%" y1="0%" x2="30%" y2="100%">
+		<stop offset="20%" stop-color="#ff8f5a"/>
+		<stop offset="100%" stop-color="#ff2f96"/>
+	</linearGradient>	
+	<path transform="translate(0,390) scale(0.1,-0.1)" fill="url(#linear-gradient)"
+		d="M2745 3888 c-404 -25 -865 -220 -1243 -527 -448 -362 -1033 -1095
+		-1301 -1629 -49 -97 -117 -270 -145 -364 -73 -251 -63 -460 30 -643 147 -290
+		526 -501 1118 -624 309 -65 606 -92 986 -92 838 1 1381 169 1861 576 237 202
+		458 526 557 820 116 342 113 722 -9 1088 -100 304 -306 631 -553 881 -367 371
+		-807 545 -1301 514z"/>
+</svg>
